@@ -20,8 +20,6 @@ if(message.content === prefix + 'quran' || message.content === prefix + 'قرا�
 	.setFooter(`القراآن الكريم | صفحة رقم ${page} من اصل ${pages.length} صفحة`, 'https://4.top4top.net/p_1222cful31.png')
 	.setImage(pages[page-1])
 	
-// ${page}
-// ${pages.length}
 	message.channel.sendEmbed(embed).then(msg => {
 		
 		msg.react('⏮').then( r => {
