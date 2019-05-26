@@ -1,1 +1,1 @@
-القرآن الكريم بالصفحات لدسكورد
+Quran pages for Discord
