@@ -1,1 +1,1 @@
-Quran pages for Discord
+## Quran pages for Discord
